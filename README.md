@@ -12,14 +12,12 @@
     <img src="https://github-readme-streak-stats.herokuapp.com?user=Darrehan&theme=rising-sun&hide_border=true&exclude_days=Sun" />
   </a>
 </div>
-<br>
 <div align="center">
   <a href="https://github.com/Darehan">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Darrehan&theme=slateorange" />
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Darehan&theme=slateorange" />
   </a>
 </div>
-<br>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=darrehan" alt="darrehan" /></a>
   </p>
 <div align="center">
@@ -27,7 +25,6 @@
     <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="200"/>
   </p>
 </div>
-<br>
 <div align="center">
   <p align="center">
   <a href="https://github.com/Darrehan">
